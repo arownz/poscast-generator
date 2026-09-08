@@ -1,1 +1,1 @@
-# poscast-generator
+# podcast-generator
